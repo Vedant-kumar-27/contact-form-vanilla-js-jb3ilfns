@@ -27,7 +27,7 @@ A contact form is a common UI pattern found on marketing websites that allows vi
 - Understand the relationship between form action, method, and submission
 - Build accessible forms with proper label-input associations
 
-## Prerequisites
+## Prerequisites # it is the prior learning knowledge
 
 - Node.js 18+ installed
 - Basic knowledge of HTML and CSS

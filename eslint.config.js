@@ -11,6 +11,8 @@ export default [
         document: 'readonly',
         console: 'readonly',
       },
+
+      // git.commit.ignore the budget api stuff
     },
     rules: {
       'no-unused-vars': ['warn', { argsIgnorePattern: '^_' }],

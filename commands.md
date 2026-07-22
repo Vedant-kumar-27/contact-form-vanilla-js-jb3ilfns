@@ -22,7 +22,7 @@ Install all project dependencies:
 # From project root
 npm install
 ```
-
+niu depend 
 This will install all dependencies including:
 - Express and CORS for the server
 - Vite for the frontend
